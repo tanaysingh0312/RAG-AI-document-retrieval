@@ -1,0 +1,27 @@
+# Ignore all files
+*
+
+# Allow folders
+!*/
+!.gitignore
+!.gitkeep
+
+# Allow only these main project folders (structure only)
+!docs_raw/
+!docs_processed/
+!chroma_db/
+!ocr_env/
+!poppler-24.08.0/
+!frontend (ui)/
+
+# Ignore heavy or generated files
+*.zip
+*.exe
+*.mp4
+*.pdf
+*.pkl
+*.pyc
+*.log
+*.tmp
+__pycache__/
+.env
