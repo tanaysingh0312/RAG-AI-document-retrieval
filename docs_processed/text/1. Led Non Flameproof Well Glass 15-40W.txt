@@ -1,0 +1,47 @@
+﻿WELL GLASS
+PF-11-D-L-WXOB
+FEATURES
+Optical pattern designed for optimum efficiency.
+Durability and Compact design.
+High quality thermal management by unique aluminum heat sink.
+Low glare rating.
+Constant current LED Driver for optimum performance.
+No UV or IR radiation.
+Improve reliability comfort while reducing energy and maintenance cost dramatically.
+APPLICATION
+Suitable for illuminating Industrial area.
+Power plant.
+Mounting
+Suitable for hanging over I bolt/C-clamp
+TECHNICAL SPECIFICATIONS
+Product Category	Led Non Flameproof Well Glass
+Total Power Consumption (W)	15-40
+Power Factor	>0.95
+THD	<10%
+Driver Efficiency	85%
+Supply Voltage (V AC)	140-270
+Frequency Range (Hz )	50+/- 10%
+Operating Temperature (°C)	-20 to 60
+Working Humidity (RH)	5%-95%
+Surge Protection	4Kv (10Kv On Required)
+LED Luminous Flux (Lumen)	1950-5200
+LED Luminous Efficacy (lm/w)	>130
+Correlated Color Temperature (K)	2700 - 6500
+Color Rendering Index	>70
+Beam Angle	120°
+Enclosure	Die - Cast Aluminum
+Ingress Protection	IP - 65
+LED Life (Hrs.)	50000
+Dimension DiaXH (mm), Tolerance ±5	140X110
+Dome	Polly carbonate
+LED PCB Material	2tc
+Over Voltage Protection (VAC)	440
+In House NABL Lab	Yes
+Zed Certificate	Yes
++91-294-2492123
++91-93516-88542
+^PYROTECH
+^TJ CREATIVE LED LIGHTING
+mktg@pyrotechlighting.com
+www.pyrotechlighting.com
+Revision 0

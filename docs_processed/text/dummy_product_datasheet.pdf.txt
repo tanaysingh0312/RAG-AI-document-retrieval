@@ -1,0 +1,8 @@
+This is a dummy PDF content for LED Hand Lamp. It has some technical specifications.
+Product Name: LED Hand Lamp Pro
+Model: PH-11
+Voltage: 24V DC
+Wattage: 10W
+IP Rating: IP67
+Features: Durable, long-lasting.
+Applications: Industrial use, emergency lighting.
