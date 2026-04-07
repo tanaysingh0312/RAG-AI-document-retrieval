@@ -29,6 +29,8 @@ Document Sources → OCR & Layout Detection → Semantic Chunking → Embeddings
 | Generation | Mistral / Phi-3 (Ollama) | Produces grounded responses |
 
 ---
+<img width="1920" height="1021" alt="Screenshot 2025-07-18 123219" src="https://github.com/user-attachments/assets/ec31fa6d-998a-4ca5-9ce3-cb409112c7e1" />
+<img width="1920" height="978" alt="Screenshot 2025-07-23 133159" src="https://github.com/user-attachments/assets/1f187603-8088-4372-8d50-0bd26254c3c3" />
 
 ## Capabilities
 
@@ -57,7 +59,7 @@ Document Sources → OCR & Layout Detection → Semantic Chunking → Embeddings
 - Reduced hallucination  
 
 ---
-
+![uWITETehZ9r1UpF5wAR3rTzc5wpXt3XcJQDR3tGhZN3t5rCWPPCPMKHGaWFF4FRRlL3X5N9pzwQvKlk6QVADYbF6anbkO78IcjI6CS6eNODaTMeaA9xceSj8uRZQtsV-4v6RCUhtX0XRjrrHjYtCyzpROhvWRmuFHXUwbivjRUMXnQq29dqVrRqnEYoSKCD6](https://github.com/user-attachments/assets/86a5472b-067f-4657-846c-56bc5e071ed9)
 ## Tech Stack
 
 **AI / NLP**
