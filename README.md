@@ -4,7 +4,6 @@ Production-grade Retrieval-Augmented Generation (RAG) system for enterprise know
 
 The system transforms heterogeneous documents (PDFs, images, tables, manuals) into a structured semantic knowledge layer using OCR, layout detection, embeddings, and hybrid retrieval. A locally deployed LLM generates context-grounded responses with minimal hallucination, enabling reliable access to large-scale document repositories.
 
----
 
 ## Architecture
 
@@ -13,6 +12,7 @@ Document Sources → OCR & Layout Detection → Semantic Chunking → Embeddings
 ```
 
 ---
+![d9OyBC9H6ZTTp57xCDboZ89zfaVjHx6MbtoJyveSIfZTdrrSK0SCqqX7OTYSi9J1Kh1IRObdefuCL683YPYb4fkY0O_Q-YOTD60Qyy8_X1OMx_fTaL6PkKi3ce-HJe9-6yqJnhPRPpGJjUqgLC-rpFviMsShFR4wYb_GKcrgmAo](https://github.com/user-attachments/assets/9d7f9b87-d689-4ec5-a20a-b4d763fa2c40)
 
 ## Pipeline Overview
 
@@ -29,7 +29,7 @@ Document Sources → OCR & Layout Detection → Semantic Chunking → Embeddings
 | Generation | Mistral / Phi-3 (Ollama) | Produces grounded responses |
 
 ---
-<img width="1920" height="1021" alt="Screenshot 2025-07-18 123219" src="https://github.com/user-attachments/assets/ec31fa6d-998a-4ca5-9ce3-cb409112c7e1" />
+<img width="1920" height="966" alt="Screenshot 2025-07-18 123219" src="https://github.com/user-attachments/assets/1ef39ee2-4c62-444d-b759-eb5bdd36ce84" />
 <img width="1920" height="978" alt="Screenshot 2025-07-23 133159" src="https://github.com/user-attachments/assets/1f187603-8088-4372-8d50-0bd26254c3c3" />
 
 ## Capabilities
